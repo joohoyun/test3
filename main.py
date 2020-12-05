@@ -103,7 +103,7 @@ def predict_model_tf(sample_url:str):
 
 @app.get('/')
 def index():
-    return {'key' : 'test2'}
+    return {'key' : 'test3prod'}
 
 @app.get('/cities')
 def get_cities():
