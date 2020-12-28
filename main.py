@@ -8,6 +8,9 @@ from sklearn import linear_model
 import requests
 import pickle
 
+#making pull request changes from test3
+#edits 2
+
 app = FastAPI()
 
 db = []
